@@ -1,8 +1,9 @@
 ---
 title: Embracing the Jekyll Journey
-date: 2023-08-15 12:00:00 -500
-categories: [website, jekyll]
-tags: [website]
+author: Zori
+date: 2023-08-15 20:55:00 +0800
+categories: [Websites, Jekyll]
+tags: [website,jekyll,blogging,github]
 ---
 
 Enter Jekyll, a creation by Tom Preston-Werner, one of GitHub's co-founders. Jekyll welcomed me with open arms to the world of "Simple, blog-aware, static sites." No longer lost in a labyrinth of databases, I found myself in a single folder where my blog posts can live as Markdown files. Images resided in another folder, keeping everything neat and orderly.
